@@ -78,8 +78,8 @@ Sarah's program kept crashing.
 
 The teacher Jain came by.
 
-Sarah said, "The program! Its recursion is overflowing. Can you
-help?"
+Sarah said, “The program! Its recursion is overflowing. Can you
+help?”
 
 Without hesitation Jain told Sarah to wear a tail.
 

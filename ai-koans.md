@@ -36,12 +36,11 @@ Sussman replied.
 
 “Why is the net wired randomly?” asked Minsky.
 
-“I do not want it to have any preconceptions of how to play”, Sussman
-said.
+“I do not want it to have any preconceptions of how to play”, Sussman said.
 
 Minsky then shut his eyes.
 
-“Why do you close your eyes?”, Sussman asked his teacher.
+“Why do you close your eyes?” Sussman asked his teacher.
 
 “So that the room will be empty.”
 
@@ -58,7 +57,7 @@ his morning meal.
 Drescher took the paper that was offered him and put it into the
 toaster, saying: “I wish the toaster to be happy, too.”
 
-Stallman and the Novice
+## Stallman and the Novice
 
 A cocky novice once said to Stallman: “I can guess why the editor
 is called Emacs, but why is the justifier called Bolio?”
@@ -72,4 +71,18 @@ Stallman called to him, “Neither Emack nor Bolio had anything to do
 with the ice cream shop, either.”
 
 This is known as the ice-cream koan.
+
+## Sarah and Jain
+
+Sarah's program kept crashing.
+
+The teacher Jain came by.
+
+Sarah said, "The program! Its recursion is overflowing. Can you
+help?"
+
+Without hesitation Jain told Sarah to wear a tail.
+
+Sarah scoffed at this, so Jain wore the tail of a fox. The program
+stopped crashing.
 

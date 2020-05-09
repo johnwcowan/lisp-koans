@@ -1,6 +1,6 @@
-== The AI Koans
+# The AI Koans
 
-== Tom Knight and the Lisp Machine
+## Tom Knight and the Lisp Machine
 
 A novice was trying to fix a broken Lisp machine by turning the
 power off and on.
@@ -13,7 +13,7 @@ Knight turned the machine off and on.
 
 The machine worked.
 
-== Moon Instructs a Student
+## Moon Instructs a Student
 
 One day a student came to Moon and said: “I understand how to make
 a better garbage collector. We must keep a reference count of the
@@ -24,7 +24,7 @@ Moon patiently told the student the following story:
 “One day a student came to Moon and said: ‘I understand how to make
 a better garbage collector...
 
-== Sussman Attains Enlightenment
+## Sussman Attains Enlightenment
 
 In the days when Sussman was a novice, Minsky once came to him as
 he sat hacking at the PDP-6.
@@ -47,7 +47,7 @@ Minsky then shut his eyes.
 
 At that moment, Sussman was enlightened.
 
-== Drescher and the Toaster
+## Drescher and the Toaster
 
 A disciple of another sect once came to Drescher as he was eating
 his morning meal.
